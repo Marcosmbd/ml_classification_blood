@@ -1,33 +1,18 @@
-## RNA - rna_image_classificator
+## Machine Learn Classification - ml_classification_blood
 
 ### Install python (você vai precisar instalar estes pacotes)
 
+pandas `<br>`
 numpy `<br>`
+pycaret `<br>`
 sklearn `<br>`
 matplotlib `<br>`
-keras `<br>`
+seaborn `<br>`
 joblib `<br>`
 
 ## Utilize o comando "!pip install (nome)" no jupyter para instalá-los
 
 ## Resumo `<br>`
 
-Este é um modelo de rede neural, capaz de classificar qualquer imagem em até 9 classes diferentes, sendo: `<br>`
-
-`Avião<br>`
-
-`Carro<br>`
-
-`Pássaro<br>`
-
-`Cervo<br>`
-
-`Cachorro<br>`
-
-`Sapo <br>`
-
-`Cavalo<br>`
-
-`Navio<br>`
-
-`Caminhão<br>`
+Esta é uma análise preditiva feita por Machine Learning em python, que tem `<br>`
+como finalidade prever a classe do sangue de uma pessoa.
